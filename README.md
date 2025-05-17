@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - 💻 I specialize in web development and have a keen interest in building scalable applications.
 - 🌱 Currently diving deeper into **React** and **Node.js**.
 - 👯 Looking to collaborate on open source projects and innovative ideas.
-- 📫 How to reach me: [Email](mailto:shaikhafsaralli@example.com) | [LinkedIn](https://linkedin.com/in/shaikhafsaralli)
+- 📫 How to reach me: [Email](mailto:shaikhafsaralli@example.com) | [LinkedIn](www.linkedin.com/in/shaikhafsaralli92
+)
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, HTML, CSS , Java ,
